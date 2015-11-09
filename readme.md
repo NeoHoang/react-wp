@@ -1,5 +1,9 @@
 # Attempt at a ReactJS based them for Wordpress
 
+## WARNING
+
+This project was just a proof of concept. It is not something I am actively developing and is currently using outdated versions of React and other libraries.
+
 ## Implementation
 
 * ReactJS
